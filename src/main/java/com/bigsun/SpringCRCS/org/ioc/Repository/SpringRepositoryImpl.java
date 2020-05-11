@@ -1,4 +1,4 @@
-package com.bigsun.SpringCRCS.Repository;
+package com.bigsun.SpringCRCS.org.ioc.Repository;
 
 
 import org.springframework.stereotype.Repository;
