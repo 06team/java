@@ -1,7 +1,7 @@
-package com.bigsun.SpringCRCS.Controller;
+package com.bigsun.SpringCRCS.org.ioc.Controller;
 
 
-import com.bigsun.SpringCRCS.Service.SpringService;
+import com.bigsun.SpringCRCS.org.ioc.Service.SpringService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 

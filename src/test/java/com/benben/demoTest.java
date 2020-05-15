@@ -1,4 +1,4 @@
-package java.com.benben;
+package com.benben;
 
 public class demoTest {
 }
