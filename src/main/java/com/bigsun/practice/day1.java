@@ -1,4 +1,4 @@
-package com.bigsun.SpringCRCS.practice;
+package com.bigsun.practice;
 
 import org.junit.Test;
 

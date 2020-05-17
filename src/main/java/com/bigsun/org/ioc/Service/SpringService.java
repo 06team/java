@@ -1,7 +1,7 @@
-package com.bigsun.SpringCRCS.org.ioc.Service;
+package com.bigsun.org.ioc.Service;
 
 
-import com.bigsun.SpringCRCS.org.ioc.Repository.SpringRepository;
+import com.bigsun.org.ioc.Repository.SpringRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
