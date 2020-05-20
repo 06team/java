@@ -1,6 +1,5 @@
 package com.bigsun.practice;
 
-import org.junit.Test;
 
 import java.util.*;
 

@@ -1,7 +1,8 @@
 package com.bigsun;
 
 import com.bigsun.practice.GetIndex;
-import org.junit.Test;
+import org.testng.annotations.Test;
+
 
 public class FirstPractice {
 
