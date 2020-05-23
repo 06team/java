@@ -16,7 +16,7 @@ public class GetIndex {
        for (int i = 0;i<a.length();i++)
        {
            int f=0; //定义标志
-          for (int j =0;j<a.length();j++)
+          for (int j =1;j<a.length();j++)
           {
               if (i==j) //如果是同一个位置就跳过
               {
@@ -25,7 +25,7 @@ public class GetIndex {
               if (a.charAt(i) == a.charAt(j))
               {
                 f=1;//如果存在相同标志变为1 跳出该次循环
-                continue;
+                break;
               }
           }
           if (f==0)//如果循环一次轮发现 f仍旧为0就按输出当前i值

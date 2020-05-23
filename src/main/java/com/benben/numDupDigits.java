@@ -14,7 +14,7 @@ public class numDupDigits {
     3、设置一个记录总数的变量count
     4、查看每个遍历的数是否是至少有一位不重复的数字，是的话+1，否则继续遍历
      */
-    public static  Integer cop(int n){
+    public static Integer cop(int n){
         int count=0;
         if(n<11){
             return 0;

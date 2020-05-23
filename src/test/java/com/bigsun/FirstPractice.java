@@ -16,4 +16,9 @@ public class FirstPractice {
         GetIndex getIndex =new GetIndex();
         System.out.print(getIndex.getValue1("jkaHjkajm"));
     }
+
+
+
+
+
 }
