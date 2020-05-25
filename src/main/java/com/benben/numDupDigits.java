@@ -27,7 +27,6 @@ public class numDupDigits {
                     count++;
                 }
             }
-
         }
         System.out.println(count);
         return count;
