@@ -38,5 +38,9 @@
 | 1               |
 +-----------------+
   
-题目链接：https://leetcode-cn.com/problems/consecutive-numbers/ （可以根据Id来查找）
+题目链接：https://leetcode-cn.com/problems/consecutive-numbers/ （可以根据Id来查找） 
+****  
+6.01-6.07习题:   
+判断某一年是否为闰年,通过Scanner 输入一个年份，然后判断该年是否是闰年  
+请用三种方法实现
 
