@@ -1,7 +1,8 @@
 package com.bigsun;
 
 import com.bigsun.practice.GetIndex;
-import org.junit.Test;
+import org.testng.annotations.Test;
+
 
 public class FirstPractice {
 
@@ -15,4 +16,9 @@ public class FirstPractice {
         GetIndex getIndex =new GetIndex();
         System.out.print(getIndex.getValue1("jkaHjkajm"));
     }
+
+
+
+
+
 }
