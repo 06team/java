@@ -44,7 +44,7 @@
 判断某一年是否为闰年,通过Scanner 输入一个年份，然后判断该年是否是闰年  
 请用三种方法实现
 ****
-6.15-6,21习题
+6.15-6.21习题
 使用队列实现栈的下列操作：
 
 	push(x) -- 元素 x 入栈
@@ -58,10 +58,10 @@
 	你只能使用队列的基本操作-- 也就是 push to back, peek/pop from front, size, 和 is empty 这些操作是合法的。
 	你所使用的语言也许不支持队列。 你可以使用 list 或者 deque（双端队列）来模拟一个队列 , 只要是标准的队列操作即可。
 	你可以假设所有操作都是有效的（例如, 对一个空的栈不会调用 pop 或者 top 操作）。
-
-题目：
+***
+6.29-07.05习题:  
 1、java如何生成一个0-100的随机整数？
-参考：http://www.wityx.com/post/807_1_1.html
+参考：http://www.wityx.com/post/807_1_1.html  
 
 2、编写一个方法求一个字符串的字节长度?
-参考：http://www.wityx.com/post/809_1_1.html
+参考：http://www.wityx.com/post/809_1_1.html  
