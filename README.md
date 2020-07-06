@@ -65,3 +65,9 @@
 
 2、编写一个方法求一个字符串的字节长度?
 参考：http://www.wityx.com/post/809_1_1.html  
+###
+07.06-07.12习题：  
+最长不含重复字符的子字符串  
+请从字符串中找出一个最长的不包含重复字符的子字符串，计算该最长子字符串的长度。  
+来源：力扣（LeetCode）  
+参考链接：https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof
